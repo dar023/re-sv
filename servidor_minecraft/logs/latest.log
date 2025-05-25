@@ -3560,3 +3560,17 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [25May2025 13:33:45.360] [Worker-Main-11/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/AdvancedPathNavigate$MovementType
 [25May2025 13:34:02.595] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dar023 lost connection: Disconnected
 [25May2025 13:34:02.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dar023 left the game
+[25May2025 13:35:52.772] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: dar023[/127.114.238.222:42649] logged in with entity id 766 at (18.01557804407382, 141.0, 33.226682732115016)
+[25May2025 13:35:52.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dar023 joined the game
+[25May2025 13:35:52.797] [Server thread/INFO] [Jade/]: Syncing config to dar023 (3151b012-aa35-3bf4-98e3-f613b62c025c)
+[25May2025 13:35:55.065] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/PathFindingStatus
+[25May2025 13:35:55.066] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/AbstractAdvancedPathNavigate$RestrictionType
+[25May2025 13:35:55.073] [AN stolen Minecolonies Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/SurfaceType
+[25May2025 13:36:18.312] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/animation/AnimationHandler
+[25May2025 13:36:20.500] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/PathFindingStatus
+[25May2025 13:36:20.501] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[25May2025 13:36:20.504] [Citadel Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/SurfaceType
+[25May2025 13:36:26.728] [Worker-Main-21/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/WildenHunter$Animations
+[25May2025 13:36:48.304] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[25May2025 13:37:03.497] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dar023 lost connection: Disconnected
+[25May2025 13:37:03.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dar023 left the game
