@@ -8090,3 +8090,35 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [25May2025 18:27:26.094] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/AbstractArrow$Pickup
 [25May2025 18:27:26.352] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
 [25May2025 18:27:38.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANLEXXD has made the advancement [Goblin's Tyranny]
+[25May2025 18:28:12.981] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.15 and blood value 0 for entity naturalist:robin
+[25May2025 18:28:21.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANLEXXD has made the advancement [It's Time for Marshmallow]
+[25May2025 18:28:24.451] [Server thread/DEBUG] [mixin/]: Mixing gameplay.CooldownInstanceAccessor from the_bumblezone-common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[25May2025 18:28:37.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANLEXXD has made the advancement [This is Mine Now]
+[25May2025 18:28:43.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANLEXXD has made the advancement [This is Goblin Musk]
+[25May2025 18:29:07.740] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25May2025 18:29:07.758] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25May2025 18:29:28.856] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity naturalist:lizard
+[25May2025 18:29:46.562] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.73 and blood value 5 for entity naturalist:boar
+[25May2025 18:29:55.616] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.15 and blood value 0 for entity naturalist:finch
+[25May2025 18:30:06.301] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity crittersandcompanions:dragonfly
+[25May2025 18:30:06.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANLEXXD fell from a high place
+[25May2025 18:30:08.206] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/api/vessel/VesselContainer$SetResult
+[25May2025 18:31:34.253] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[25May2025 18:31:34.602] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.1 and blood value 0 for entity crittersandcompanions:jumping_spider
+[25May2025 18:31:40.391] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/properties/ChoppedLogShape
+[25May2025 18:31:40.394] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/util/FaceShape
+[25May2025 18:32:02.161] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.29 and blood value 0 for entity naturalist:firefly
+[25May2025 18:33:06.556] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
+[25May2025 18:33:10.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dar023 has made the advancement [Into Fire]
+[25May2025 18:33:12.441] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[25May2025 18:33:12.524] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.25 and blood value 0 for entity alexsmobs:terrapin
+[25May2025 18:33:12.529] [Server thread/DEBUG] [mixin/]: Mixing entities.AmphibiousNodeEvaluatorMixin from the_bumblezone-common.mixins.json into net.minecraft.world.level.pathfinder.AmphibiousNodeEvaluator
+[25May2025 18:33:20.865] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.58 and blood value 4 for entity alexsmobs:raccoon
+[25May2025 18:33:20.867] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.58 and blood value 4 for entity alexsmobs:raccoon
+[25May2025 18:33:20.871] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.58 and blood value 4 for entity alexsmobs:raccoon
+[25May2025 18:33:20.872] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.58 and blood value 4 for entity alexsmobs:raccoon
+[25May2025 18:33:40.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANLEXXD has made the advancement [Ice Bucket Challenge]
+[25May2025 18:34:07.743] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25May2025 18:34:07.759] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25May2025 18:36:06.353] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[25May2025 18:36:06.354] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction

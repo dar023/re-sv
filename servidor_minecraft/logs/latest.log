@@ -868,3 +868,17 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [25May2025 18:27:26.094] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/AbstractArrow$Pickup
 [25May2025 18:27:26.352] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
 [25May2025 18:27:38.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANLEXXD has made the advancement [Goblin's Tyranny]
+[25May2025 18:28:21.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANLEXXD has made the advancement [It's Time for Marshmallow]
+[25May2025 18:28:37.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANLEXXD has made the advancement [This is Mine Now]
+[25May2025 18:28:43.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANLEXXD has made the advancement [This is Goblin Musk]
+[25May2025 18:30:06.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANLEXXD fell from a high place
+[25May2025 18:30:08.206] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/api/vessel/VesselContainer$SetResult
+[25May2025 18:31:34.253] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[25May2025 18:31:40.391] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/properties/ChoppedLogShape
+[25May2025 18:31:40.394] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/util/FaceShape
+[25May2025 18:33:06.556] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
+[25May2025 18:33:10.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dar023 has made the advancement [Into Fire]
+[25May2025 18:33:12.441] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[25May2025 18:33:40.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANLEXXD has made the advancement [Ice Bucket Challenge]
+[25May2025 18:36:06.353] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[25May2025 18:36:06.354] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
