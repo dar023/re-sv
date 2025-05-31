@@ -842,3 +842,33 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [31May2025 20:09:49.051] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dar023 lost connection: Disconnected
 [31May2025 20:09:49.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dar023 left the game
 [31May2025 20:09:49.194] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/wanmine/ghosts/entities/variants/GhostVariant
+[31May2025 20:31:53.902] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ANLEXXD is 4d30c036-df2b-46bd-b0b9-d2319fa224a5
+[31May2025 20:31:59.194] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6541313b[id=<null>,name=dar023,properties={},legacy=false] (/127.114.238.222:50619) lost connection: Disconnected
+[31May2025 20:32:00.230] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ANLEXXD[/127.133.44.205:53739] logged in with entity id 655 at (667.4548780402777, 81.0, 124.80889557263278)
+[31May2025 20:32:00.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANLEXXD joined the game
+[31May2025 20:32:00.265] [Server thread/INFO] [Jade/]: Syncing config to ANLEXXD (4d30c036-df2b-46bd-b0b9-d2319fa224a5)
+[31May2025 20:32:01.290] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/memory/MemoryStatus
+[31May2025 20:32:01.291] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/Behavior$Status
+[31May2025 20:32:01.305] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/GateBehavior$OrderPolicy
+[31May2025 20:32:01.307] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/GateBehavior$RunningPolicy
+[31May2025 20:32:01.386] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[31May2025 20:32:02.691] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/Starbuncle$StarbuncleGoalState
+[31May2025 20:32:06.860] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/PathFindingStatus
+[31May2025 20:32:06.861] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/AbstractAdvancedPathNavigate$RestrictionType
+[31May2025 20:32:06.865] [AN stolen Minecolonies Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/SurfaceType
+[31May2025 20:32:08.474] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ANLEXXD was kicked for floating too long!
+[31May2025 20:32:08.475] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ANLEXXD lost connection: Flying is not enabled on this server
+[31May2025 20:32:08.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANLEXXD left the game
+[31May2025 20:32:08.556] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[31May2025 20:32:18.242] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ANLEXXD is 4d30c036-df2b-46bd-b0b9-d2319fa224a5
+[31May2025 20:32:24.568] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ANLEXXD[/127.133.44.205:48307] logged in with entity id 1051 at (667.4548780402777, 81.0, 124.80889557263278)
+[31May2025 20:32:24.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANLEXXD joined the game
+[31May2025 20:32:24.604] [Server thread/INFO] [Jade/]: Syncing config to ANLEXXD (4d30c036-df2b-46bd-b0b9-d2319fa224a5)
+[31May2025 20:33:02.502] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[31May2025 20:33:24.555] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@32e122[id=<null>,name=dar023,properties={},legacy=false] (/127.114.238.222:34293) lost connection: Timed out
+[31May2025 20:33:55.371] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player dar023 is ba6b402a-6949-4ea2-81d6-58ad5cee1930
+[31May2025 20:34:01.676] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: dar023[/127.114.238.222:35481] logged in with entity id 1570 at (650.7134233658019, 78.0, -152.68758549838367)
+[31May2025 20:34:01.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dar023 joined the game
+[31May2025 20:34:01.705] [Server thread/INFO] [Jade/]: Syncing config to dar023 (ba6b402a-6949-4ea2-81d6-58ad5cee1930)
+[31May2025 20:34:02.428] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/DisplaySide
+[31May2025 20:34:02.433] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/TankPosition
