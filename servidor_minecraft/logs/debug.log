@@ -9802,3 +9802,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [31May2025 21:23:26.855] [Server thread/DEBUG] [Paraglider/]: Finished adding village structures
 [31May2025 21:23:26.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dar023 joined the game
 [31May2025 21:23:26.877] [Server thread/INFO] [Jade/]: Syncing config to dar023 (ba6b402a-6949-4ea2-81d6-58ad5cee1930)
+[31May2025 21:26:29.315] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 21:26:29.331] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31May2025 21:31:29.312] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 21:31:29.328] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
