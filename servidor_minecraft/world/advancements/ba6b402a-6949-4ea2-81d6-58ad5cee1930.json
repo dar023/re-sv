@@ -3187,6 +3187,12 @@
     },
     "done": true
   },
+  "farm_and_charm:recipes/corn": {
+    "criteria": {
+      "has_kernels": "2025-05-31 19:53:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_string": "2025-05-31 19:47:55 +0000"
@@ -3220,6 +3226,12 @@
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-05-31 19:47:29 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/corn_bag": {
+    "criteria": {
+      "has_corn": "2025-05-31 19:53:27 +0000"
     },
     "done": true
   },
