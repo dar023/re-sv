@@ -884,3 +884,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [31May2025 20:51:39.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANLEXXD left the game
 [31May2025 20:55:43.597] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dar023 lost connection: Disconnected
 [31May2025 20:55:43.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dar023 left the game
+[31May2025 21:23:20.582] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player dar023 is ba6b402a-6949-4ea2-81d6-58ad5cee1930
+[31May2025 21:23:26.854] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: dar023[/127.114.238.222:36235] logged in with entity id 6891 at (656.6677922094112, 76.0, -153.86646691560966)
+[31May2025 21:23:26.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dar023 joined the game
+[31May2025 21:23:26.877] [Server thread/INFO] [Jade/]: Syncing config to dar023 (ba6b402a-6949-4ea2-81d6-58ad5cee1930)
