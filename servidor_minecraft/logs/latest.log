@@ -909,3 +909,26 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [31May2025 11:32:09.570] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
 [31May2025 11:33:55.934] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
 [31May2025 11:35:15.745] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/WildenHunter$Animations
+[31May2025 11:37:15.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANLEXXD has made the advancement [Acquire Hardware]
+[31May2025 11:37:35.102] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
+[31May2025 11:37:35.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANLEXXD has made the advancement [Bim Bam Boom !]
+[31May2025 11:37:58.480] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ANLEXXD lost connection: Disconnected
+[31May2025 11:37:58.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANLEXXD left the game
+[31May2025 11:38:37.461] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dar023 lost connection: Disconnected
+[31May2025 11:38:37.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dar023 left the game
+[31May2025 11:39:47.276] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ANLEXXD is 4d30c036-df2b-46bd-b0b9-d2319fa224a5
+[31May2025 11:39:53.568] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ANLEXXD[/127.133.44.205:39907] logged in with entity id 7437 at (656.2707510883162, 76.0, 129.3747936755111)
+[31May2025 11:39:53.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANLEXXD joined the game
+[31May2025 11:39:53.593] [Server thread/INFO] [Jade/]: Syncing config to ANLEXXD (4d30c036-df2b-46bd-b0b9-d2319fa224a5)
+[31May2025 11:40:40.496] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/sleep_tight/core/WakeReason
+[31May2025 11:41:54.230] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player dar023 is ba6b402a-6949-4ea2-81d6-58ad5cee1930
+[31May2025 11:42:00.571] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: dar023[/127.114.238.222:57389] logged in with entity id 8067 at (42.3005094350551, 141.0, 83.42044043129214)
+[31May2025 11:42:00.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dar023 joined the game
+[31May2025 11:42:00.592] [Server thread/INFO] [Jade/]: Syncing config to dar023 (ba6b402a-6949-4ea2-81d6-58ad5cee1930)
+[31May2025 11:42:37.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dar023 has made the advancement [A Seedy Place]
+[31May2025 11:44:35.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANLEXXD has made the advancement [Isn't It Iron Pick]
+[31May2025 11:46:05.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dar023 has made the advancement [This is Goblin Musk]
+[31May2025 11:46:22.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANLEXXD has completed the challenge [Kinda Sus]
+[31May2025 11:48:48.150] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[31May2025 11:51:17.916] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dar023 lost connection: Disconnected
+[31May2025 11:51:17.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dar023 left the game
