@@ -875,3 +875,12 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [31May2025 20:37:36.244] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
 [31May2025 20:39:14.021] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/properties/ChoppedLogShape
 [31May2025 20:39:14.024] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/util/FaceShape
+[31May2025 20:47:45.544] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/server/entity/grottol/EntityGrottol$EnumDeathType
+[31May2025 20:48:15.508] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[31May2025 20:51:23.312] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[31May2025 20:51:23.313] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[31May2025 20:51:30.115] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[31May2025 20:51:39.410] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ANLEXXD lost connection: Disconnected
+[31May2025 20:51:39.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANLEXXD left the game
+[31May2025 20:55:43.597] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dar023 lost connection: Disconnected
+[31May2025 20:55:43.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dar023 left the game
