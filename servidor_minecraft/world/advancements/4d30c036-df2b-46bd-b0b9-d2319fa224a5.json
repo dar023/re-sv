@@ -2902,7 +2902,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:skeleton": "2025-05-31 11:21:57 +0000"
+      "minecraft:skeleton": "2025-05-31 11:21:57 +0000",
+      "minecraft:zombie": "2025-05-31 11:59:51 +0000",
+      "minecraft:drowned": "2025-05-31 12:00:47 +0000"
     },
     "done": false
   },
@@ -3932,6 +3934,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/block_pocket_manager": {
+    "criteria": {
+      "has_redstone_block": "2025-05-31 11:56:43 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/portable_radar": {
     "criteria": {
       "has_redstone": "2025-05-31 11:41:29 +0000"
@@ -3965,6 +3973,12 @@
   "securitycraft:recipes/redstone/reinforced_dropper": {
     "criteria": {
       "has_redstone": "2025-05-31 11:41:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2025-05-31 12:01:21 +0000"
     },
     "done": true
   },
@@ -4073,6 +4087,12 @@
   "securitycraft:recipes/redstone/reinforced_piston": {
     "criteria": {
       "has_redstone": "2025-05-31 11:41:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-05-31 11:56:43 +0000"
     },
     "done": true
   },

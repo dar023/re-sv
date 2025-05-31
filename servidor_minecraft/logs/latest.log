@@ -932,3 +932,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [31May2025 11:48:48.150] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
 [31May2025 11:51:17.916] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dar023 lost connection: Disconnected
 [31May2025 11:51:17.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dar023 left the game
+[31May2025 11:58:29.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANLEXXD was slain by Zombie
+[31May2025 11:58:31.849] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/api/vessel/VesselContainer$SetResult
+[31May2025 11:59:12.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANLEXXD was slain by Zombie
+[31May2025 12:01:21.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANLEXXD has made the advancement [Suit Up]
