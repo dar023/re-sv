@@ -9226,3 +9226,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [31May2025 20:51:39.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANLEXXD left the game
 [31May2025 20:55:43.597] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dar023 lost connection: Disconnected
 [31May2025 20:55:43.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dar023 left the game
+[31May2025 20:56:29.281] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 20:56:29.295] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31May2025 21:01:29.280] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 21:01:29.294] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
