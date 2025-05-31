@@ -7475,3 +7475,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [31May2025 20:09:49.194] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/wanmine/ghosts/entities/variants/GhostVariant
 [31May2025 20:11:29.329] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [31May2025 20:11:29.354] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31May2025 20:16:29.285] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 20:16:29.298] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31May2025 20:21:29.279] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 20:21:29.294] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
