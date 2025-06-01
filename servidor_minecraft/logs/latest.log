@@ -874,3 +874,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [01Jun2025 10:12:10.840] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/pixeldreamstudios/mobs_of_mythology/entity/variant/KoboldVariant
 [01Jun2025 10:18:02.221] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 137.3 μs. 180/180 recipes are parallelized.
 [01Jun2025 10:23:50.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dar023 has made the advancement [Suit Up]
+[01Jun2025 10:31:26.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANLEXXD has made the advancement [Vampire Diaries]
+[01Jun2025 10:36:21.504] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ANLEXXD lost connection: Disconnected
+[01Jun2025 10:36:21.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANLEXXD left the game

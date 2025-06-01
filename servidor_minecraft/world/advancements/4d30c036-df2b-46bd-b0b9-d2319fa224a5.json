@@ -5219,6 +5219,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/hunter/hunter_table": {
+    "criteria": {
+      "has_fang": "2025-06-01 10:31:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_beetroot": "2025-06-01 10:19:25 +0000"
@@ -5255,9 +5261,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-06-01 10:32:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-06-01 10:10:30 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/root": {
+    "criteria": {
+      "main": "2025-06-01 10:31:13 +0000"
     },
     "done": true
   },
@@ -5267,9 +5285,21 @@
     },
     "done": true
   },
+  "vampirism:recipes/misc/vampire/blood_bottle_to_glass": {
+    "criteria": {
+      "has_blood_bottle": "2025-06-01 10:32:23 +0000"
+    },
+    "done": true
+  },
   "paraglider:recipes/misc/cosmetic/rito_goddess_statue": {
     "criteria": {
       "has_goddess_statue": "2025-06-01 09:46:25 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/ancient_knowledge": {
+    "criteria": {
+      "blood_container": "2025-06-01 10:31:26 +0000"
     },
     "done": true
   },
@@ -5288,6 +5318,12 @@
   "vampirism:recipes/decorations/general/blood_sieve": {
     "criteria": {
       "has_cauldron": "2025-06-01 10:02:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-06-01 10:32:49 +0000"
     },
     "done": true
   },
