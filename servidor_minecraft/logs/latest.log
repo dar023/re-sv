@@ -848,3 +848,17 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [01Jun2025 12:36:18.690] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
 [01Jun2025 12:37:10.810] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
 [01Jun2025 12:39:25.735] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[01Jun2025 12:42:07.178] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[01Jun2025 12:42:28.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dar023 has made the advancement [Acquire Hardware]
+[01Jun2025 12:46:49.332] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[01Jun2025 12:46:49.334] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[01Jun2025 12:49:19.282] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 4.013 ms. 4278/4356 recipes are parallelized.
+[01Jun2025 12:53:24.214] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[01Jun2025 12:53:49.923] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[01Jun2025 12:55:43.479] [Worker-Main-38/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
+[01Jun2025 12:56:14.236] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/wanmine/ghosts/entities/variants/GhostVariant
+[01Jun2025 13:03:06.932] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/DisplaySide
+[01Jun2025 13:03:06.938] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/TankPosition
+[01Jun2025 13:06:06.363] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[01Jun2025 13:13:22.992] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tech/thatgravyboat/duckling/common/constants/DuckVariant
+[01Jun2025 13:13:44.689] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 173.2 μs. 180/180 recipes are parallelized.
