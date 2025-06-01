@@ -4295,6 +4295,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/display_case": {
+    "criteria": {
+      "has_item_frame": "2025-06-01 13:31:52 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/vampire/altar_tip": {
     "criteria": {
       "has_iron": "2025-06-01 12:42:28 +0000"
@@ -4412,6 +4418,12 @@
   "farm_and_charm:recipes/roaster": {
     "criteria": {
       "has_iron_ingot": "2025-06-01 12:42:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-06-01 13:26:07 +0000"
     },
     "done": true
   },
@@ -4688,6 +4700,12 @@
   "farm_and_charm:recipes/crafting_bowl": {
     "criteria": {
       "has_iron_ingot": "2025-06-01 12:42:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-06-01 13:26:07 +0000"
     },
     "done": true
   },

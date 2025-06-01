@@ -862,3 +862,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [01Jun2025 13:06:06.363] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
 [01Jun2025 13:13:22.992] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tech/thatgravyboat/duckling/common/constants/DuckVariant
 [01Jun2025 13:13:44.689] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 173.2 μs. 180/180 recipes are parallelized.
+[01Jun2025 13:30:12.519] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/7095, l='ServerLevel[world]', x=811.30, y=69.05, z=112.33] died, message: 'Nitwit was slain by Zombie'
+[01Jun2025 13:35:25.633] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
