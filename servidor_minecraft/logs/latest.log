@@ -927,3 +927,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [02Jun2025 20:38:06.214] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dar023 moved too quickly! 12.214252574250168,-1.9567764904144127,12.386461993067769
 [02Jun2025 20:38:10.505] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dar023 moved too quickly! 16.043818990530326,-0.14497134349429075,8.313819797954238
 [02Jun2025 20:38:20.315] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dar023 moved too quickly! 14.977764528096941,-2.267980489273185,9.801195839418597
+[02Jun2025 20:40:07.054] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[02Jun2025 20:40:49.504] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dar023 lost connection: Disconnected
+[02Jun2025 20:40:49.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dar023 left the game
+[02Jun2025 20:40:55.850] [User Authenticator #9/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Hg11 is 88e69a78-10a4-48ed-8dea-5475c7706d3a
+[02Jun2025 20:41:01.791] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@678e8aa0[id=88e69a78-10a4-48ed-8dea-5475c7706d3a,name=Hg11,properties={textures=[com.mojang.authlib.properties.Property@5b5f985]},legacy=false] (/127.227.71.152:42469) lost connection: Disconnected
+[02Jun2025 20:41:17.841] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@66f9b776[id=<null>,name=dar023,properties={},legacy=false] (/127.114.238.222:50441) lost connection: Disconnected
