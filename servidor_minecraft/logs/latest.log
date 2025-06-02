@@ -900,3 +900,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [02Jun2025 20:07:13.668] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
 [02Jun2025 20:07:47.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hg11 has made the advancement [Alex's Caves]
 [02Jun2025 20:08:02.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hg11 drowned
+[02Jun2025 20:10:28.626] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[02Jun2025 20:11:15.697] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/server/entity/grottol/EntityGrottol$EnumDeathType
+[02Jun2025 20:13:25.871] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hg11 lost connection: Disconnected
+[02Jun2025 20:13:25.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hg11 left the game

@@ -953,6 +953,12 @@
     },
     "done": true
   },
+  "farm_and_charm:recipes/potato_bag": {
+    "criteria": {
+      "has_potato": "2025-06-02 20:09:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2025-06-02 20:06:32 +0000"
@@ -1658,6 +1664,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/item_tent": {
+    "criteria": {
+      "has_bed": "2025-06-02 20:10:02 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_small_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-06-02 19:47:02 +0000"
@@ -1709,6 +1721,12 @@
   "ars_nouveau:recipes/misc/fire_essence_to_charge": {
     "criteria": {
       "has_journal": "2025-06-02 19:47:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-06-02 20:09:57 +0000"
     },
     "done": true
   },
@@ -1823,6 +1841,12 @@
   "ars_nouveau:recipes/misc/alchemical_sourcelink": {
     "criteria": {
       "has_journal": "2025-06-02 19:47:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-06-02 20:09:57 +0000"
     },
     "done": true
   },
@@ -2660,6 +2684,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-06-02 20:09:57 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/bat_cage": {
     "criteria": {
       "has_planks": "2025-06-02 19:51:07 +0000"
@@ -2878,6 +2908,7 @@
       "minecraft:cold_ocean": "2025-06-02 20:06:43 +0000",
       "minecraft:forest": "2025-06-02 19:47:03 +0000",
       "minecraft:deep_cold_ocean": "2025-06-02 20:07:00 +0000",
+      "minecraft:deep_frozen_ocean": "2025-06-02 20:13:01 +0000",
       "minecraft:meadow": "2025-06-02 19:47:13 +0000",
       "minecraft:plains": "2025-06-02 19:48:09 +0000"
     },
