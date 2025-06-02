@@ -873,3 +873,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [02Jun2025 16:02:32.256] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/wanmine/ghosts/entities/variants/GhostVariant
 [02Jun2025 16:03:31.288] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
 [02Jun2025 16:04:13.940] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 3.292 ms. 4248/4326 recipes are parallelized.
+[02Jun2025 16:11:36.238] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[02Jun2025 16:16:39.676] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/properties/ChoppedLogShape
+[02Jun2025 16:16:39.678] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/util/FaceShape
