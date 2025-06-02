@@ -876,3 +876,17 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [02Jun2025 16:11:36.238] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
 [02Jun2025 16:16:39.676] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/properties/ChoppedLogShape
 [02Jun2025 16:16:39.678] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/util/FaceShape
+[02Jun2025 16:20:09.856] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dar023 moved wrongly!
+[02Jun2025 16:20:20.944] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/DisplaySide
+[02Jun2025 16:20:20.949] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/TankPosition
+[02Jun2025 16:22:20.388] [Worker-Main-40/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
+[02Jun2025 16:22:58.565] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/pixeldreamstudios/mobs_of_mythology/entity/variant/KoboldVariant
+[02Jun2025 16:22:59.958] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/pixeldreamstudios/mobs_of_mythology/entity/variant/KoboldWarriorVariant
+[02Jun2025 16:23:00.926] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/AbstractArrow$Pickup
+[02Jun2025 16:23:04.829] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/structures/StrongholdPieces$StrongholdPiece$SmallDoorType
+[02Jun2025 16:23:20.097] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dar023 moved wrongly!
+[02Jun2025 16:23:20.298] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dar023 moved wrongly!
+[02Jun2025 16:23:21.048] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dar023 moved wrongly!
+[02Jun2025 16:23:25.794] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dar023 moved wrongly!
+[02Jun2025 16:23:42.844] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dar023 lost connection: Disconnected
+[02Jun2025 16:23:42.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dar023 left the game

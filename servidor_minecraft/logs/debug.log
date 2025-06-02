@@ -7500,3 +7500,51 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [02Jun2025 16:13:01.938] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [02Jun2025 16:16:39.676] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/properties/ChoppedLogShape
 [02Jun2025 16:16:39.678] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/util/FaceShape
+[02Jun2025 16:18:01.919] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 16:18:01.937] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 16:20:09.856] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dar023 moved wrongly!
+[02Jun2025 16:20:20.944] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/DisplaySide
+[02Jun2025 16:20:20.949] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/TankPosition
+[02Jun2025 16:20:25.409] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity naturalist:lizard
+[02Jun2025 16:21:39.091] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.06 and blood value 0 for entity ghosts:small_ghost
+[02Jun2025 16:21:41.752] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.73 and blood value 5 for entity naturalist:boar
+[02Jun2025 16:22:12.855] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.42 and blood value 2 for entity tameablebeasts:tameable_racoon
+[02Jun2025 16:22:14.805] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.7 and blood value 15 for entity naturalist:deer
+[02Jun2025 16:22:18.831] [Worker-Main-32/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[02Jun2025 16:22:18.832] [Worker-Main-32/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from the_bumblezone-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[02Jun2025 16:22:20.074] [Worker-Main-39/DEBUG] [mixin/]: Mixing world.NoiseChunkAccessor from the_bumblezone-common.mixins.json into net.minecraft.world.level.levelgen.NoiseChunk
+[02Jun2025 16:22:20.075] [Worker-Main-39/DEBUG] [mixin/]: Mixing world.NoiseChunkMixin from the_bumblezone-common.mixins.json into net.minecraft.world.level.levelgen.NoiseChunk
+[02Jun2025 16:22:20.075] [Worker-Main-39/DEBUG] [mixin/]: Renaming synthetic method lambda$injectWrapNew$1()Lnet/minecraft/world/level/biome/Climate$Sampler; to md996dc4$lambda$injectWrapNew$1$0 in the_bumblezone-common.mixins.json:world.NoiseChunkMixin
+[02Jun2025 16:22:20.078] [Worker-Main-39/DEBUG] [mixin/]: Renaming synthetic method lambda$injectWrapNew$0()Lnet/minecraft/world/level/biome/BiomeSource; to md996dc4$lambda$injectWrapNew$0$1 in the_bumblezone-common.mixins.json:world.NoiseChunkMixin
+[02Jun2025 16:22:20.091] [Worker-Main-39/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[02Jun2025 16:22:20.096] [Worker-Main-39/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[02Jun2025 16:22:20.096] [Worker-Main-39/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[02Jun2025 16:22:20.096] [Worker-Main-39/DEBUG] [mixin/]: Mixing common.BeardifierMixin from lithostitched.forge.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[02Jun2025 16:22:20.107] [Worker-Main-39/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[02Jun2025 16:22:20.107] [Worker-Main-39/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[02Jun2025 16:22:20.388] [Worker-Main-40/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
+[02Jun2025 16:22:21.596] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.39 and blood value 2 for entity alexsmobs:tasmanian_devil
+[02Jun2025 16:22:21.597] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.39 and blood value 2 for entity alexsmobs:tasmanian_devil
+[02Jun2025 16:22:23.412] [Worker-Main-11/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 8.667s
+[02Jun2025 16:22:24.437] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 4.61 and blood value 0 for entity alexsmobs:grizzly_bear
+[02Jun2025 16:22:28.781] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.58 and blood value 4 for entity alexsmobs:raccoon
+[02Jun2025 16:22:58.565] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/pixeldreamstudios/mobs_of_mythology/entity/variant/KoboldVariant
+[02Jun2025 16:22:59.958] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/pixeldreamstudios/mobs_of_mythology/entity/variant/KoboldWarriorVariant
+[02Jun2025 16:23:00.926] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/AbstractArrow$Pickup
+[02Jun2025 16:23:01.452] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.09 and blood value 0 for entity alexsmobs:seagull
+[02Jun2025 16:23:01.456] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.25 and blood value 0 for entity naturalist:coral_snake
+[02Jun2025 16:23:01.940] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 16:23:01.960] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 16:23:02.711] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.29 and blood value 0 for entity alexsmobs:potoo
+[02Jun2025 16:23:02.907] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.89 and blood value 13 for entity alexsmobs:seal
+[02Jun2025 16:23:02.908] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.89 and blood value 13 for entity alexsmobs:seal
+[02Jun2025 16:23:02.908] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.89 and blood value 13 for entity alexsmobs:seal
+[02Jun2025 16:23:02.908] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.89 and blood value 13 for entity alexsmobs:seal
+[02Jun2025 16:23:04.829] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/structures/StrongholdPieces$StrongholdPiece$SmallDoorType
+[02Jun2025 16:23:07.570] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.1 and blood value 0 for entity crittersandcompanions:jumping_spider
+[02Jun2025 16:23:20.097] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dar023 moved wrongly!
+[02Jun2025 16:23:20.298] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dar023 moved wrongly!
+[02Jun2025 16:23:21.048] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dar023 moved wrongly!
+[02Jun2025 16:23:25.794] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dar023 moved wrongly!
+[02Jun2025 16:23:42.844] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dar023 lost connection: Disconnected
+[02Jun2025 16:23:42.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dar023 left the game
