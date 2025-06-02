@@ -886,3 +886,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [02Jun2025 19:48:00.236] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
 [02Jun2025 19:48:37.533] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/WildenHunter$Animations
 [02Jun2025 19:48:49.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hg11 has made the advancement [Goblin's Tyranny]
+[02Jun2025 19:51:52.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hg11 has made the advancement [Stone Age]
+[02Jun2025 19:56:11.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hg11 has made the advancement [Getting an Upgrade]

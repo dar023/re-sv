@@ -9053,3 +9053,11 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [02Jun2025 19:48:27.345] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.73 and blood value 12 for entity alexsmobs:gelada_monkey
 [02Jun2025 19:48:37.533] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/WildenHunter$Animations
 [02Jun2025 19:48:49.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hg11 has made the advancement [Goblin's Tyranny]
+[02Jun2025 19:49:00.186] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 19:49:00.206] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 19:51:52.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hg11 has made the advancement [Stone Age]
+[02Jun2025 19:54:00.154] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 19:54:00.172] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 19:56:11.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hg11 has made the advancement [Getting an Upgrade]
+[02Jun2025 19:59:00.150] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 19:59:00.169] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
