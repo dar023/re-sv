@@ -868,3 +868,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [02Jun2025 19:13:54.364] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/2131, l='ServerLevel[world]', x=725.76, y=78.00, z=95.70] died, message: 'Nitwit was slain by ANLEXXD'
 [02Jun2025 19:16:38.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANLEXXD has made the advancement [What a Deal!]
 [02Jun2025 19:16:46.810] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/10404, l='ServerLevel[world]', x=660.36, y=76.00, z=112.57] died, message: 'Leatherworker withered away'
+[02Jun2025 19:32:26.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANLEXXD was chopped to bits by Skirmisher
+[02Jun2025 19:32:28.634] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/api/vessel/VesselContainer$SetResult
+[02Jun2025 19:32:40.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANLEXXD has made the advancement [Voluntary Exile]
