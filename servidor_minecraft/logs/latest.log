@@ -838,3 +838,20 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [02Jun2025 15:01:18.415] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/ClipContext$Block
 [02Jun2025 15:01:18.426] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dar023 lost connection: Disconnected
 [02Jun2025 15:01:18.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dar023 left the game
+[02Jun2025 15:09:23.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[02Jun2025 15:09:23.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[02Jun2025 15:09:23.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[02Jun2025 15:09:23.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02Jun2025 15:09:23.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02Jun2025 15:09:23.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aquatica:eternal_deep
+[02Jun2025 15:09:23.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02Jun2025 15:09:23.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[02Jun2025 15:09:23.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02Jun2025 15:09:23.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02Jun2025 15:09:23.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (eternal_deep): All chunks are saved
+[02Jun2025 15:09:23.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02Jun2025 15:09:23.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[02Jun2025 15:09:23.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02Jun2025 15:09:23.650] [Server thread/INFO] [Framework/]: Unloading server configs...
+[02Jun2025 15:09:23.651] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[02Jun2025 15:09:23.653] [Server thread/INFO] [Framework/]: Finished unloading server configs
