@@ -888,3 +888,15 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [02Jun2025 19:48:49.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hg11 has made the advancement [Goblin's Tyranny]
 [02Jun2025 19:51:52.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hg11 has made the advancement [Stone Age]
 [02Jun2025 19:56:11.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hg11 has made the advancement [Getting an Upgrade]
+[02Jun2025 20:02:22.093] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[02Jun2025 20:02:43.298] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/geckolib/core/object/PlayState
+[02Jun2025 20:02:43.299] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/geckolib/core/animation/AnimationController$State
+[02Jun2025 20:06:10.542] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/properties/ChoppedLogShape
+[02Jun2025 20:06:10.545] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/util/FaceShape
+[02Jun2025 20:06:41.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dar023 was slain by Argentavis
+[02Jun2025 20:06:52.988] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Hg11) moved too quickly! -1.7770207873523987,-4.263256414560601E-14,10.246884893741992
+[02Jun2025 20:06:52.988] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Hg11) moved too quickly! -1.8453677408174372,-4.263256414560601E-14,10.640995851801108
+[02Jun2025 20:06:52.989] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Hg11) moved too quickly! -1.9137146942848062,-4.263256414560601E-14,11.035106809873525
+[02Jun2025 20:07:13.668] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[02Jun2025 20:07:47.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hg11 has made the advancement [Alex's Caves]
+[02Jun2025 20:08:02.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hg11 drowned

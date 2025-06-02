@@ -9061,3 +9061,23 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [02Jun2025 19:56:11.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hg11 has made the advancement [Getting an Upgrade]
 [02Jun2025 19:59:00.150] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Jun2025 19:59:00.169] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 20:02:22.093] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[02Jun2025 20:02:22.113] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.25 and blood value 0 for entity alexsmobs:terrapin
+[02Jun2025 20:02:43.298] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/geckolib/core/object/PlayState
+[02Jun2025 20:02:43.299] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/geckolib/core/animation/AnimationController$State
+[02Jun2025 20:03:33.047] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.47 and blood value 3 for entity alexsmobs:skunk
+[02Jun2025 20:04:00.179] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 20:04:00.200] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 20:04:10.534] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 4.08 and blood value 15 for entity alexsmobs:kangaroo
+[02Jun2025 20:05:35.205] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.15 and blood value 0 for entity naturalist:canary
+[02Jun2025 20:06:10.542] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/properties/ChoppedLogShape
+[02Jun2025 20:06:10.545] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/util/FaceShape
+[02Jun2025 20:06:41.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dar023 was slain by Argentavis
+[02Jun2025 20:06:52.988] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Hg11) moved too quickly! -1.7770207873523987,-4.263256414560601E-14,10.246884893741992
+[02Jun2025 20:06:52.988] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Hg11) moved too quickly! -1.8453677408174372,-4.263256414560601E-14,10.640995851801108
+[02Jun2025 20:06:52.989] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Hg11) moved too quickly! -1.9137146942848062,-4.263256414560601E-14,11.035106809873525
+[02Jun2025 20:07:13.668] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[02Jun2025 20:07:47.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hg11 has made the advancement [Alex's Caves]
+[02Jun2025 20:08:02.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hg11 drowned
+[02Jun2025 20:09:00.157] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 20:09:00.170] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
