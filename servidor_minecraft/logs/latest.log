@@ -861,3 +861,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [02Jun2025 19:01:07.215] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
 [02Jun2025 19:04:38.974] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 3.467 ms. 4248/4326 recipes are parallelized.
 [02Jun2025 19:06:57.269] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/5845, l='ServerLevel[world]', x=661.30, y=76.00, z=145.70] died, message: 'Librarian was slain by ANLEXXD'
+[02Jun2025 19:10:07.215] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[02Jun2025 19:11:18.717] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[02Jun2025 19:11:25.610] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[02Jun2025 19:11:25.611] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[02Jun2025 19:13:54.364] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/2131, l='ServerLevel[world]', x=725.76, y=78.00, z=95.70] died, message: 'Nitwit was slain by ANLEXXD'
+[02Jun2025 19:16:38.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANLEXXD has made the advancement [What a Deal!]
+[02Jun2025 19:16:46.810] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/10404, l='ServerLevel[world]', x=660.36, y=76.00, z=112.57] died, message: 'Leatherworker withered away'

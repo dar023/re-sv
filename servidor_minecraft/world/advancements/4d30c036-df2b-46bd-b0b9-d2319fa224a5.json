@@ -2902,6 +2902,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-06-02 19:12:20 +0000",
       "minecraft:skeleton": "2025-05-31 11:21:57 +0000",
       "minecraft:creeper": "2025-06-01 10:12:04 +0000",
       "minecraft:zombie": "2025-05-31 11:59:51 +0000",
@@ -5615,6 +5616,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-06-02 19:16:38 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_yellow_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-06-02 19:01:50 +0000"
@@ -5642,6 +5649,12 @@
   "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-02 19:01:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-06-02 19:16:38 +0000"
     },
     "done": true
   },
