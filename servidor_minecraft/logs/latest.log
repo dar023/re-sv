@@ -871,3 +871,18 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [02Jun2025 19:32:26.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANLEXXD was chopped to bits by Skirmisher
 [02Jun2025 19:32:28.634] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/api/vessel/VesselContainer$SetResult
 [02Jun2025 19:32:40.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANLEXXD has made the advancement [Voluntary Exile]
+[02Jun2025 19:40:29.693] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Hg11 is 88e69a78-10a4-48ed-8dea-5475c7706d3a
+[02Jun2025 19:40:29.863] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@52590c75[id=88e69a78-10a4-48ed-8dea-5475c7706d3a,name=Hg11,properties={textures=[com.mojang.authlib.properties.Property@6faf82c8]},legacy=false] (/127.227.71.152:41491) lost connection: Disconnected
+[02Jun2025 19:41:10.763] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ANLEXXD lost connection: Disconnected
+[02Jun2025 19:41:10.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANLEXXD left the game
+[02Jun2025 19:43:10.006] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Hg11 is 88e69a78-10a4-48ed-8dea-5475c7706d3a
+[02Jun2025 19:43:11.799] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3699a8cb[id=88e69a78-10a4-48ed-8dea-5475c7706d3a,name=Hg11,properties={textures=[com.mojang.authlib.properties.Property@4808ea8c]},legacy=false] (/127.227.71.152:59037) lost connection: Disconnected
+[02Jun2025 19:46:56.549] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Hg11 is 88e69a78-10a4-48ed-8dea-5475c7706d3a
+[02Jun2025 19:47:02.812] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Hg11[/127.227.71.152:44321] logged in with entity id 17100 at (-6.5, 137.0, -5.5)
+[02Jun2025 19:47:02.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hg11 joined the game
+[02Jun2025 19:47:02.871] [Server thread/INFO] [Jade/]: Syncing config to Hg11 (88e69a78-10a4-48ed-8dea-5475c7706d3a)
+[02Jun2025 19:47:03.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hg11 has made the advancement [Mobs of Mythology]
+[02Jun2025 19:47:03.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hg11 has reached the goal [Aquatica]
+[02Jun2025 19:48:00.236] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
+[02Jun2025 19:48:37.533] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/WildenHunter$Animations
+[02Jun2025 19:48:49.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hg11 has made the advancement [Goblin's Tyranny]
