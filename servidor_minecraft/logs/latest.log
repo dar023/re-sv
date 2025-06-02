@@ -829,3 +829,12 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [02Jun2025 14:54:56.461] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@60438be0[id=<null>,name=dar023,properties={},legacy=false] (/127.114.238.222:51267) lost connection: Disconnected
 [02Jun2025 14:54:58.429] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player dar023 is ba6b402a-6949-4ea2-81d6-58ad5cee1930
 [02Jun2025 14:54:58.611] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@11e95ac2[id=ba6b402a-6949-4ea2-81d6-58ad5cee1930,name=dar023,properties={textures=[com.mojang.authlib.properties.Property@5c4d6fa9]},legacy=false] (/127.114.238.222:52229) lost connection: Disconnected
+[02Jun2025 14:59:27.948] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player dar023 is ba6b402a-6949-4ea2-81d6-58ad5cee1930
+[02Jun2025 14:59:28.111] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@25ce8467[id=ba6b402a-6949-4ea2-81d6-58ad5cee1930,name=dar023,properties={textures=[com.mojang.authlib.properties.Property@e47e531]},legacy=false] (/127.114.238.222:46837) lost connection: Disconnected
+[02Jun2025 15:01:11.338] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player dar023 is ba6b402a-6949-4ea2-81d6-58ad5cee1930
+[02Jun2025 15:01:17.653] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: dar023[/127.114.238.222:58585] logged in with entity id 114 at (63.5, 146.5625, 89.5)
+[02Jun2025 15:01:17.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dar023 joined the game
+[02Jun2025 15:01:17.827] [Server thread/INFO] [Jade/]: Syncing config to dar023 (ba6b402a-6949-4ea2-81d6-58ad5cee1930)
+[02Jun2025 15:01:18.415] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/ClipContext$Block
+[02Jun2025 15:01:18.426] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dar023 lost connection: Disconnected
+[02Jun2025 15:01:18.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dar023 left the game
