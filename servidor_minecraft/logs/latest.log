@@ -885,3 +885,13 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [03Jun2025 13:27:51.518] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
 [03Jun2025 13:29:15.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dar023 has made the advancement [Isn't It Iron Pick]
 [03Jun2025 13:29:44.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dar023 has made the advancement [Unbreaking X]
+[03Jun2025 13:30:29.420] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/WildenHunter$Animations
+[03Jun2025 13:31:09.273] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/network/PacketANEffect$EffectType
+[03Jun2025 13:34:13.701] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/wanmine/ghosts/entities/variants/SmallGhostVariant
+[03Jun2025 13:34:23.596] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[03Jun2025 13:34:23.597] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[03Jun2025 13:38:13.117] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dar023 moved wrongly!
+[03Jun2025 13:39:23.257] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/structures/StrongholdPieces$StrongholdPiece$SmallDoorType
+[03Jun2025 13:48:33.310] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
+[03Jun2025 13:48:53.235] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[03Jun2025 13:51:21.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANLEXXD has made the advancement [Alex's Caves]

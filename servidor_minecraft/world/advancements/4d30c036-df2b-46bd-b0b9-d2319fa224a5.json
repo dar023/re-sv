@@ -1876,10 +1876,16 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-06-03 13:30:40 +0000",
+      "minecraft:birch_forest": "2025-06-03 13:38:17 +0000",
+      "minecraft:beach": "2025-06-03 13:32:40 +0000",
+      "minecraft:dark_forest": "2025-06-03 13:43:10 +0000",
       "minecraft:river": "2025-05-25 18:30:57 +0000",
+      "minecraft:stony_shore": "2025-06-03 13:29:38 +0000",
       "minecraft:dripstone_caves": "2025-05-31 11:21:02 +0000",
       "minecraft:cold_ocean": "2025-05-25 18:24:12 +0000",
       "minecraft:forest": "2025-05-25 18:18:36 +0000",
+      "minecraft:ocean": "2025-06-03 13:51:07 +0000",
       "minecraft:meadow": "2025-05-25 18:17:04 +0000",
       "minecraft:savanna": "2025-05-31 11:30:22 +0000",
       "minecraft:plains": "2025-05-25 18:21:24 +0000"
@@ -2904,6 +2910,7 @@
     "criteria": {
       "minecraft:pillager": "2025-06-02 19:12:20 +0000",
       "minecraft:skeleton": "2025-05-31 11:21:57 +0000",
+      "minecraft:spider": "2025-06-03 13:35:17 +0000",
       "minecraft:creeper": "2025-06-01 10:12:04 +0000",
       "minecraft:zombie": "2025-05-31 11:59:51 +0000",
       "minecraft:drowned": "2025-05-31 12:00:47 +0000"
@@ -5808,9 +5815,39 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/vampire/vampire_clothing_crown": {
+    "criteria": {
+      "has_heart": "2025-06-03 13:34:42 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-06-03 13:51:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-06-03 13:35:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-06-03 13:35:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
       "has_oxeye_daisy": "2025-06-03 12:58:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-06-03 13:39:45 +0000"
     },
     "done": true
   },
@@ -5820,15 +5857,99 @@
     },
     "done": true
   },
+  "vampirism:hunter/betrayal": {
+    "criteria": {
+      "kill": "2025-06-03 13:34:37 +0000"
+    },
+    "done": false
+  },
+  "vampirism:recipes/decorations/vampire/chandelier": {
+    "criteria": {
+      "has_string": "2025-06-03 13:35:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-06-03 13:39:45 +0000"
+    },
+    "done": true
+  },
   "goblins_tyranny:droblin_success": {
     "criteria": {
       "droblin_success_0": "2025-06-03 13:08:31 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-06-03 13:35:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-06-03 13:35:17 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_clothing_hat": {
+    "criteria": {
+      "has_heart": "2025-06-03 13:34:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-06-03 13:50:29 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_clothing_boots": {
+    "criteria": {
+      "has_heart": "2025-06-03 13:34:42 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/lettuce_bag": {
+    "criteria": {
+      "has_lettuce": "2025-06-03 13:33:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-06-03 13:50:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-06-03 13:35:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2025-06-03 12:58:10 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_clothing_legs": {
+    "criteria": {
+      "has_heart": "2025-06-03 13:34:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-06-03 13:35:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-06-03 13:39:45 +0000"
     },
     "done": true
   },
