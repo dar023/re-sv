@@ -5316,6 +5316,12 @@
     },
     "done": true
   },
+  "vampirism:main/ancient_knowledge": {
+    "criteria": {
+      "blood_container": "2025-06-03 14:01:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-06-03 13:45:59 +0000"

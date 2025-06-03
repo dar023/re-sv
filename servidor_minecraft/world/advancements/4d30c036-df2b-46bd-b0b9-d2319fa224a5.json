@@ -5815,6 +5815,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-06-03 14:05:05 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/combat/vampire/vampire_clothing_crown": {
     "criteria": {
       "has_heart": "2025-06-03 13:34:42 +0000"
@@ -5884,6 +5890,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-06-03 13:35:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-06-03 14:05:05 +0000"
     },
     "done": true
   },

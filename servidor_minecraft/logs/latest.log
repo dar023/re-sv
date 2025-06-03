@@ -895,3 +895,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [03Jun2025 13:48:33.310] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
 [03Jun2025 13:48:53.235] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
 [03Jun2025 13:51:21.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANLEXXD has made the advancement [Alex's Caves]
+[03Jun2025 14:01:55.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dar023 has made the advancement [Vampire Diaries]
+[03Jun2025 14:07:13.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANLEXXD has made the advancement [Oh Right. The Poison.]
+[03Jun2025 14:07:37.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANLEXXD has reached the goal [Mystery Bag]
+[03Jun2025 14:08:57.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dar023 has made the advancement [Best Friends Forever]
+[03Jun2025 14:09:15.628] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Horse (vehicle of ANLEXXD) moved wrongly! 0.4149708525985716

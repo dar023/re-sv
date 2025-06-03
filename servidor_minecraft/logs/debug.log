@@ -8120,3 +8120,14 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [03Jun2025 13:53:33.562] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.73 and blood value 12 for entity alexsmobs:gelada_monkey
 [03Jun2025 13:56:14.705] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Jun2025 13:56:14.723] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jun2025 14:01:14.695] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jun2025 14:01:14.714] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jun2025 14:01:55.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dar023 has made the advancement [Vampire Diaries]
+[03Jun2025 14:06:14.698] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jun2025 14:06:14.715] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jun2025 14:07:13.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANLEXXD has made the advancement [Oh Right. The Poison.]
+[03Jun2025 14:07:37.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANLEXXD has reached the goal [Mystery Bag]
+[03Jun2025 14:08:57.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dar023 has made the advancement [Best Friends Forever]
+[03Jun2025 14:08:57.793] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 3.12 and blood value 0 for entity ars_nouveau:summon_horse
+[03Jun2025 14:08:58.542] [Server thread/DEBUG] [mixin/]: Mixing gameplay.CooldownInstanceAccessor from the_bumblezone-common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[03Jun2025 14:09:15.628] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Horse (vehicle of ANLEXXD) moved wrongly! 0.4149708525985716
