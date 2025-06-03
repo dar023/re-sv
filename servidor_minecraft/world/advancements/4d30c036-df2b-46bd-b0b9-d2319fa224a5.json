@@ -5821,6 +5821,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-06-03 14:11:25 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/combat/vampire/vampire_clothing_crown": {
     "criteria": {
       "has_heart": "2025-06-03 13:34:42 +0000"
@@ -5842,6 +5848,12 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-06-03 13:35:17 +0000"
+    },
+    "done": true
+  },
+  "goblins_tyranny:bag_success": {
+    "criteria": {
+      "bag_success_0": "2025-06-03 14:07:37 +0000"
     },
     "done": true
   },
@@ -5872,6 +5884,12 @@
   "vampirism:recipes/decorations/vampire/chandelier": {
     "criteria": {
       "has_string": "2025-06-03 13:35:17 +0000"
+    },
+    "done": true
+  },
+  "goblins_tyranny:poison_success": {
+    "criteria": {
+      "poison_success_0": "2025-06-03 14:07:13 +0000"
     },
     "done": true
   },
@@ -5914,6 +5932,12 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-06-03 13:50:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-06-03 14:11:36 +0000"
     },
     "done": true
   },
