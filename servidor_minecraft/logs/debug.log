@@ -8065,3 +8065,12 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [03Jun2025 13:15:11.344] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/util/FaceShape
 [03Jun2025 13:16:14.711] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Jun2025 13:16:14.730] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jun2025 13:21:14.680] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jun2025 13:21:14.697] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jun2025 13:25:40.925] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 139.1 μs. 180/180 recipes are parallelized.
+[03Jun2025 13:26:14.693] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jun2025 13:26:14.706] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jun2025 13:27:44.576] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/server/entity/naga/EntityNaga$EnumNagaMovement
+[03Jun2025 13:27:51.518] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[03Jun2025 13:29:15.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dar023 has made the advancement [Isn't It Iron Pick]
+[03Jun2025 13:29:44.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dar023 has made the advancement [Unbreaking X]
