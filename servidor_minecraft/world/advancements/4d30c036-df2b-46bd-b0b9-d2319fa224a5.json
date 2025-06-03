@@ -5814,6 +5814,18 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-06-03 13:08:32 +0000"
+    },
+    "done": true
+  },
+  "goblins_tyranny:droblin_success": {
+    "criteria": {
+      "droblin_success_0": "2025-06-03 13:08:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2025-06-03 12:58:10 +0000"
