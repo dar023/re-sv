@@ -878,3 +878,12 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [07Jun2025 21:43:16.378] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dar023 moved wrongly!
 [07Jun2025 21:43:45.453] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/sand
 [07Jun2025 21:43:45.470] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/sand
+[07Jun2025 21:49:43.859] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/normal
+[07Jun2025 21:49:43.864] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/plains
+[07Jun2025 21:49:43.864] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
+[07Jun2025 21:53:43.712] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[07Jun2025 21:53:43.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Hg11> x 475 z 250
+[07Jun2025 21:53:49.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Hg11> y 100
+[07Jun2025 21:55:16.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Hg11> x 474 z 275 y 116
+[07Jun2025 21:58:41.774] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 180.1 μs. 180/180 recipes are parallelized.
+[07Jun2025 22:00:23.945] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dar023 moved wrongly!
