@@ -889,3 +889,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [07Jun2025 22:00:23.945] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dar023 moved wrongly!
 [07Jun2025 22:10:14.594] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
 [07Jun2025 22:10:14.594] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[07Jun2025 22:16:23.548] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hg11 lost connection: Disconnected
+[07Jun2025 22:16:23.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hg11 left the game
+[07Jun2025 22:16:47.942] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dar023 lost connection: Disconnected
+[07Jun2025 22:16:47.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dar023 left the game
